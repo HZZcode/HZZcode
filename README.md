@@ -23,12 +23,13 @@
 
 * OS: Windows 11 & WSL Ubuntu
 * Language (Most -> Least Liked)
-    * C# (Currently Programming)
+    * C#
     * Python
     * C++
+    * JavaScript (Currently Programming)
     * Java
     * C
-* Currently Working on: [labbish/Bish](https://github.com/labbish/Bish)
+* Currently Working on: [Galosity](https://github.com/HZZcode/Galosity)
 
 ## Github Stats
 
