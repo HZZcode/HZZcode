@@ -33,8 +33,4 @@
 
 ## Github Stats
 
-![](https://raw.githubusercontent.com/HZZcode/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/HZZcode/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/HZZcode/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/HZZcode/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github.com/HZZcode/github-metrics/blob/main/github-metrics-combined.svg)
