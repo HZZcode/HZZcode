@@ -29,8 +29,6 @@
     * Rust
     * (Others)
 
-*Note*: Some of my projects are [here](https://github.com/orgs/labbish/repositories)! The stats below don't contain these.
-
 ## Github Stats
 
 ![](https://github.com/HZZcode/github-metrics/blob/main/github-metrics-combined.svg)
