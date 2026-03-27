@@ -23,12 +23,13 @@
 
 * OS: Windows 11 & WSL Ubuntu
 * Language (Most -> Least Liked)
-    * TypeScript (Currently Programming)
     * C#
+    * TypeScript
     * Python
-    * C++
-    * Java
-* Currently Working on: [Galosity](https://github.com/HZZcode/Galosity)
+    * Rust
+    * (Others)
+
+*Note*: Some of my projects are [here](https://github.com/orgs/labbish/repositories)! The stats below don't contain these.
 
 ## Github Stats
 
