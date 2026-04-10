@@ -28,5 +28,6 @@
     * 优势：从零开始，可以避免很多技术债；生成宏很好用；性能可能有点提升（虽然这本来就不是重点）
     * 劣势：需要自己写*GC*；可能会带来不少额外复杂性；*Rust*的对象模型可能并不适合*Bish*
   - 更简单的方案：用*Roslyn*的代码生成（使用`ModuleInitializer`）
+  - 支持自动生成`getter`/`setter`/`deller`
 * 把各种用`List`和`Dictionary`的地方改成`IList`和`IDictionary`并且用线程安全版本
 * 支持空`return`
