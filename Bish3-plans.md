@@ -35,3 +35,4 @@
 * 支持空`return`
 * 完善`BytecodeParser`
   - 目前版本的`BytecodeParser`只能算demo，没有任何功能上的保证或者测试，导致*Bish*也没有实质上的编译后的产物
+  - 它也应该成为编译期的
