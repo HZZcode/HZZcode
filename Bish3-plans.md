@@ -32,6 +32,7 @@
   - 更简单的方案：用*Roslyn*的代码生成（使用`ModuleInitializer`）
   - 支持自动生成`getter`/`setter`/`deller`
 * 把各种用`List`和`Dictionary`的地方改成`IList`和`IDictionary`并且用线程安全版本
+* 尽可能减少字段（特别是`public`的），改成访问修饰符恰当的属性
 * 支持空`return`
 * 完善`BytecodeParser`
   - 目前版本的`BytecodeParser`只能算demo，没有任何功能上的保证或者测试，导致*Bish*也没有实质上的编译后的产物
