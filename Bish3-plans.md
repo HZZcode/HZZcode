@@ -12,7 +12,9 @@
 * [ ] 🔴 模糊`expr`和`stat`的边界
   - 进而去除三元运算符、合并2种`switch`写法
   - [专栏](https://www.bilibili.com/opus/1188186811118125061)
-* [x] 🟢 将**BishLSP**并入**Bish**~~，**BishBytecode**并入**BishRuntime**~~
+* [ ] 🟢 合并项目
+  - [x] 将**BishLSP**并入**Bish**
+  - [ ] 将**BishBytecode**并入**BishRuntime**
 * [x] 🟢 把**bish-vsc**作为*HZZcode*的单独项目分割出来
 * [x] 🟡 尽可能把所有测试都改写成*Bish*代码，去掉直接使用对象操作/字节码的测试
 * [ ] 🟡 改革错误处理系统
@@ -22,7 +24,7 @@
 * [ ] 🟢 加入type的构造函数
 * [ ] 🔴 支持自定义`hook_bind`
 * [ ] 🔴 把`BuiltinBinder`变成编译期的，使用源生成器生成`ModuleInitializer`
-  - 支持自动生成`getter`/`setter`/`deller`
+  - [ ] 支持自动生成`getter`/`setter`/`deller`
 * [ ] 🟡 把各种用`List`和`Dictionary`的地方改成`IList`和`IDictionary`并且用线程安全版本
 * [ ] 🟡 尽可能减少字段（特别是`public`的），改成访问修饰符恰当的属性
 * [ ] 🟢 支持空`return`
