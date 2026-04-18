@@ -18,7 +18,7 @@
 * [ ] 🟡 改革错误处理系统
   - [专栏](https://www.bilibili.com/opus/1189376916487929857)
 * [ ] 🟡 加入`async`
-* [ ] 🟢 把`function`类型变成内置的（而不是放到库里面）
+* [x] 🟢 把`Func`类型变成内置的（而不是放到库里面）
 * [ ] 🔴 支持自定义`hook_bind`
 * [ ] 🔴 把`BuiltinBinder`变成编译期的，使用源生成器生成`ModuleInitializer`
   - 支持自动生成`getter`/`setter`/`deller`
