@@ -14,11 +14,12 @@
   - [专栏](https://www.bilibili.com/opus/1188186811118125061)
 * [x] 🟢 将**BishLSP**并入**Bish**~~，**BishBytecode**并入**BishRuntime**~~
 * [x] 🟢 把**bish-vsc**作为*HZZcode*的单独项目分割出来
-* [ ] 🟡 尽可能把所有测试都改写成*Bish*代码，去掉直接使用对象操作/字节码的测试
+* [x] 🟡 尽可能把所有测试都改写成*Bish*代码，去掉直接使用对象操作/字节码的测试
 * [ ] 🟡 改革错误处理系统
   - [专栏](https://www.bilibili.com/opus/1189376916487929857)
 * [ ] 🟡 加入`async`
 * [x] 🟢 把`Func`类型变成内置的（而不是放到库里面）
+* [ ] 🟢 加入type的构造函数
 * [ ] 🔴 支持自定义`hook_bind`
 * [ ] 🔴 把`BuiltinBinder`变成编译期的，使用源生成器生成`ModuleInitializer`
   - 支持自动生成`getter`/`setter`/`deller`
