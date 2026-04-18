@@ -1,8 +1,8 @@
 # Bish3 Plans
 此文件用于个人记录[Bish](https://github.com/labbish/Bish)的下一个大版本的更改计划。颜色用于表示（预估的）实施难度。
 
-* [ ] 🔴 区分`SetMember`和`DefMember`
-  - 进而让`BishScope`直接作为`BishObject`，从而去除掉`reflect`
+* [x] 🔴 区分`SetMember`和`DefMember`
+  - [ ] 进而让`BishScope`直接作为`BishObject`，从而去除掉`reflect`
   - [专栏](https://www.bilibili.com/opus/1181531621797396483)
 * [ ] 🟢 让函数能获取调用者的`BishScope`
 * [ ] 🟡 把文件全局作用域和内置全局作用域分开，前者的外层为后者，后者在整个运行时共享
@@ -12,8 +12,8 @@
 * [ ] 🔴 模糊`expr`和`stat`的边界
   - 进而去除三元运算符、合并2种`switch`写法
   - [专栏](https://www.bilibili.com/opus/1188186811118125061)
-* [ ] 🟢 将**BishLSP**并入**Bish**，**BishBytecode**并入**BishRuntime**
-* [ ] 🟢 把**bish-vsc**作为*HZZcode*的单独项目分割出来
+* [x] 🟢 将**BishLSP**并入**Bish**~~，**BishBytecode**并入**BishRuntime**~~
+* [x] 🟢 把**bish-vsc**作为*HZZcode*的单独项目分割出来
 * [ ] 🟡 尽可能把所有测试都改写成*Bish*代码，去掉直接使用对象操作/字节码的测试
 * [ ] 🟡 改革错误处理系统
   - [专栏](https://www.bilibili.com/opus/1189376916487929857)
