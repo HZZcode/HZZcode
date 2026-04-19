@@ -12,9 +12,9 @@
 * [x] 🔴 模糊`expr`和`stat`的边界
   - 进而去除三元运算符、合并2种`switch`写法
   - [专栏](https://www.bilibili.com/opus/1188186811118125061)
-* [ ] 🟢 合并项目
+* [x] 🟢 合并项目
   - [x] 将**BishLSP**并入**Bish**
-  - [ ] 将**BishBytecode**并入**BishRuntime**
+  - [x] 将**BishBytecode**并入**BishRuntime**
 * [x] 🟢 把**bish-vsc**作为*HZZcode*的单独项目分割出来
 * [x] 🟡 尽可能把所有测试都改写成*Bish*代码，去掉直接使用对象操作/字节码的测试
 * [ ] 🟡 改革错误处理系统
