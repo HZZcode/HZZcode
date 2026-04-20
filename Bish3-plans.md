@@ -27,7 +27,9 @@
 * [ ] 🔴 支持自定义`hook_bind`
 * [ ] 🔴 把`BuiltinBinder`变成编译期的，使用源生成器生成`ModuleInitializer`
   - [ ] 支持自动生成`getter`/`setter`/`deller`
-* [ ] 🟡 把各种用`List`和`Dictionary`的地方改成`IList`和`IDictionary`并且用线程安全版本
+* [ ] 🟡 改用线程安全容器
+  - [ ] `List`->`ConcurrentList`
+  - [x] `Dictionary`->`ConcurrentDictionary`
 * [ ] 🟡 尽可能减少字段（特别是`public`的），改成访问修饰符恰当的属性
 * [x] 🟢 支持空`return`
 * [ ] 🔴 完善`BytecodeParser`，改为使用源生成器
