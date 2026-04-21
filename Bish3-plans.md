@@ -1,7 +1,7 @@
 # Bish3 Plans
 此文件用于个人记录[Bish](https://github.com/labbish/Bish)的下一个大版本的更改计划。颜色用于表示（预估的）实施难度。
 
-|🔴🔴🔴⚪⚪⚪|🟡🟡🟡⚪⚪⚪|🟢🟢🟢🟢🟢⚪|
+|🔴🔴🔴⚪⚪⚪|🟡🟡🟡🟡⚪⚪|🟢🟢🟢🟢🟢⚪|
 
 * [x] 🔴 区分`SetMember`和`DefMember`
   - [x] 进而让`BishScope`直接作为`BishObject`，从而去除掉`reflect`
@@ -21,7 +21,6 @@
 * [x] 🟢 把**bish-vsc**作为*HZZcode*的单独项目分割出来
 * [x] 🟡 尽可能把所有测试都改写成*Bish*代码，去掉直接使用对象操作/字节码的测试
 * [x] 🟡 改革错误处理系统
-  - [ ] 加入`defer`并将`with`作为其语法糖
   - [专栏](https://www.bilibili.com/opus/1189376916487929857)
 * [ ] 🟡 加入`async`
 * [x] 🟢 把`Func`类型变成内置的（而不是放到库里面）
