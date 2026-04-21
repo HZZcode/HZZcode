@@ -1,7 +1,7 @@
 # Bish3 Plans
 此文件用于个人记录[Bish](https://github.com/labbish/Bish)的下一个大版本的更改计划。颜色用于表示（预估的）实施难度。
 
-|🔴🔴⚪⚪⚪⚪|🟡🟡🟡⚪⚪⚪|🟢🟢🟢🟢🟢⚪|
+|🔴🔴🔴⚪⚪⚪|🟡🟡🟡⚪⚪⚪|🟢🟢🟢🟢🟢⚪|
 
 * [x] 🔴 区分`SetMember`和`DefMember`
   - [x] 进而让`BishScope`直接作为`BishObject`，从而去除掉`reflect`
@@ -26,7 +26,7 @@
 * [ ] 🟡 加入`async`
 * [x] 🟢 把`Func`类型变成内置的（而不是放到库里面）
 * [x] 🟢 加入type的构造函数
-* [ ] 🔴 支持自定义`hook_bind`
+* [x] 🔴 支持自定义`hook_bind`
 * [ ] 🔴 把`BuiltinBinder`变成编译期的，使用源生成器生成`ModuleInitializer`
   - [ ] 支持自动生成`getter`/`setter`/`deller`
 * [x] 🟡 改用线程安全容器
