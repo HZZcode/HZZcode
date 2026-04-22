@@ -1,7 +1,7 @@
 # Bish3 Plans
 此文件用于个人记录[Bish](https://github.com/labbish/Bish)的下一个大版本的更改计划。颜色用于表示（预估的）实施难度。
 
-|🔴🔴🔴🔴⚪⚪|🟡🟡🟡🟡🟡⚪|🟢🟢🟢🟢🟢⚪|
+|🔴🔴🔴🔴🔴⚪|🟡🟡🟡🟡🟡⚪|🟢🟢🟢🟢🟢⚪|
 
 * [x] 🔴 区分`SetMember`和`DefMember`
   - [x] 进而让`BishScope`直接作为`BishObject`，从而去除掉`reflect`
@@ -33,4 +33,4 @@
   - [x] `Dictionary`->`ConcurrentDictionary`
 * [x] 🟡 尽可能减少字段（特别是`public`的），改成访问修饰符恰当的属性
 * [x] 🟢 支持空`return`
-* [ ] 🔴 完善`BytecodeParser` ~~，改为使用源生成器~~
+* [x] 🔴 完善`BytecodeParser` ~~，改为使用源生成器~~
