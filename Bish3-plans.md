@@ -33,4 +33,4 @@
   - [x] `Dictionary`->`ConcurrentDictionary`
 * [x] 🟡 尽可能减少字段（特别是`public`的），改成访问修饰符恰当的属性
 * [x] 🟢 支持空`return`
-* [x] 🔴 完善`BytecodeParser` ~~，改为使用源生成器~~
+* [x] 🔴 完善`BytecodeParser`，改为使用源生成器
