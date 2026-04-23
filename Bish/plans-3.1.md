@@ -4,3 +4,4 @@
 * [ ] 🔴 让程序能获取自身的字节码/源代码
 * [ ] 🟡 加入`async`
 * [ ] 🟡 加入**BishCompiler**和**Bish**的测试
+* [ ] 🟡 将`import`不涉及编译的部分下放到**BishRuntime**，编译时注入`root`和`compile`
