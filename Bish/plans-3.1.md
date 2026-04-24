@@ -10,5 +10,5 @@
 * [ ] 🟢 加入`object`的默认`hook_enter`和`hook_exit`实现
 * [ ] 🟢 加入内插字符串
 * [x] 🟡 将字节码和`BishFrame`作为`BishObject`
-* [ ] 🟢 加入用于编译和编译文件的函数
+* [x] 🟢 加入用于编译代码/文件的函数
 * [x] 🟢 在函数中存储捕获的`frame`
