@@ -7,7 +7,7 @@
 * [ ] 🟡 加入`async`
   - [x] Task & Runner
   - [x] async & await
-  - [ ] async generator & with
+  - [x] async generator & with
   - [ ] async libs
 * [x] 🟡 加入**BishCompiler**和**Bish**的测试
 * [x] 🟡 将`import`不涉及编译的部分下放到**BishRuntime**，编译时注入`root`和`compile`
