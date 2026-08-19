@@ -6,6 +6,8 @@ Math major & coding enthusiast. Focusing on TCS (Theoretical Computer Science). 
 
 **Language *(Most -> Least Liked)***: `C#` `TypeScript` `Python` `Rust` etc.
 
+**Posts**: See [posts.md](posts.md)
+
 **Github Stats**
 
 ![](https://github.com/HZZcode/github-metrics/blob/main/github-metrics-combined.svg)
