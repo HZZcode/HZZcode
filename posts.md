@@ -25,11 +25,11 @@
 
 - [论为什么C#的接口静态抽象方法就是typeclass](https://zhuanlan.zhihu.com/p/2072282773423908065) 2026.8.16
   * 如题，实现了可以静态分派的typeclass。
-  [论为什么C#的接口静态抽象方法就是trait](https://zhuanlan.zhihu.com/p/2072288201629235196) 2026.8.16
+- [论为什么C#的接口静态抽象方法就是trait](https://zhuanlan.zhihu.com/p/2072288201629235196) 2026.8.16
   * 这次是就像`dyn Trait`一样的动态分派。
 - [论为什么你应该用typescript取代lean4](https://zhuanlan.zhihu.com/p/2073349262268690668) 2026.8.19
   * 在Typescript类型系统描述`And`, `Or`, `Not`。
-  [论为什么你不应该用typescript取代lean4](https://zhuanlan.zhihu.com/p/2073373051539015120) 2026.8.19
+- [论为什么你不应该用typescript取代lean4](https://zhuanlan.zhihu.com/p/2073373051539015120) 2026.8.19
   * 还有任意&存在类型。
 - [论为什么C#的类型系统是Rank-N的](https://zhuanlan.zhihu.com/p/2073467269791991728) 2026.8.19
   * 你有想过C#支持接口中的和`virtual`的泛型方法意味着什么吗？
