@@ -35,6 +35,8 @@
   * 你有想过C#支持接口中的和`virtual`的泛型方法意味着什么吗？
 - [UnionToTuple Explained](https://zhuanlan.zhihu.com/p/2073887309213209743) 2026.8.20
   * 解读Typescript中我最喜欢的一个类型体操。
+- [Dataclass, but with magic](https://zhuanlan.zhihu.com/p/2075299164871828529) 2026.8.24
+  * 我猜很多人应该不知道Javascript的`Object.keys`顺序是标准定义的。
   
 
 ## 杂项
