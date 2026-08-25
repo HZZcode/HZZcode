@@ -37,6 +37,8 @@
   * 解读Typescript中我最喜欢的一个类型体操。
 - [Dataclass, but with magic](https://zhuanlan.zhihu.com/p/2075299164871828529) 2026.8.24
   * 我猜很多人应该不知道Javascript的`Object.keys`顺序是标准定义的。
+- [论为什么typescript也是依值类型](https://zhuanlan.zhihu.com/p/2075360515271009291) 2026.8.24
+  * 在三味群里产生的想法，简单写了一下。
   
 
 ## 杂项
