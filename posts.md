@@ -47,3 +47,5 @@
   * 感觉自己的代码审美还是比较独特的。
 - [从Peano算术到Grothendieck宇宙](guide/infinity.md) 2026.6.29
   * 什么叫我竟然还会数学？Github对markdown内嵌公式支持有点不好，可以看[放图片的B站版](https://www.bilibili.com/opus/1230427153047224336)或者下载。
+- [AI会消灭新编程语言吗？](https://zhuanlan.zhihu.com/p/2076071417553203572) 2026.8.26
+  * 感觉今天某些人崇拜AI到了一种左脑肘击右脑的地步了。
